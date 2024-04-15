@@ -10,9 +10,9 @@
 
 📫 Reach out to me at berkan.coding@gmail.com to connect and discuss potential collaborations or industry insights.
 
-😄 Pronouns: He/Him
+⚡ Pronouns: He/Him
 
-⚡ Fun fact: Certified open water diver but aiming to explore the depths of the IT world!
+😄 Fun fact: Certified open water diver but aiming to explore the depths of the IT world!
 
 <!---
 BerkanTogac/BerkanTogac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
