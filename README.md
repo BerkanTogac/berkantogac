@@ -1,6 +1,6 @@
 👋 Hey there, I'm Berkan!
 
-🌱 After completing intensive bootcamps in Python, JavaScript, and AWS through Clarusway, ranked among the top 10 by Forbes, I'm diving headfirst into the world of IT. Currently, I'm enrolled in the DevOps bootcamp from the same place.
+🌱 After completing intensive bootcamps in Python, JavaScript, and AWS through Clarusway, ranked among the top 10 by Forbes, I'm diving headfirst into the world of IT.
 
 👀 I'm exploring Terraform and Docker and next one is Kubernetes, seeking to deepen my understanding of infrastructure orchestration and containerization.
 
